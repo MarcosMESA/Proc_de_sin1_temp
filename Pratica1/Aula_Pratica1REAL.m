@@ -1,4 +1,4 @@
-%Aluno: Marcos Mauricio da Cunha de Morais
+%Aluno: Marcos Mauricio
 %Processamento de Sinais 1 - Aula Prática 1
 
 %Apresentacao
@@ -236,4 +236,5 @@ switch option
     disp("Opcao invalida. Terminando o Programa.");
     pause(2);
 end
+
 
